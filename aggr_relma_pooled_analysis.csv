@@ -1,0 +1,13 @@
+sample_id,molecule_h5
+WT_Female_1,/bigdata/cosslab/rrugg002/WT_Female/outs/per_sample_outs/WT_Female_1/count/sample_molecule_info.h5
+WT_Female_2,/bigdata/cosslab/rrugg002/WT_Female/outs/per_sample_outs/WT_Female_2/count/sample_molecule_info.h5
+WT_Female_3,/bigdata/cosslab/rrugg002/WT_Female/outs/per_sample_outs/WT_Female_3/count/sample_molecule_info.h5
+KO_Female_1,/bigdata/cosslab/rrugg002/KO_Female/outs/per_sample_outs/KO_Female_1/count/sample_molecule_info.h5
+KO_Female_2,/bigdata/cosslab/rrugg002/KO_Female/outs/per_sample_outs/KO_Female_2/count/sample_molecule_info.h5
+KO_Female_3,/bigdata/cosslab/rrugg002/KO_Female/outs/per_sample_outs/KO_Female_3/count/sample_molecule_info.h5
+WT_Male_1,/bigdata/cosslab/rrugg002/WT_Male/outs/per_sample_outs/WT_Male_1/count/sample_molecule_info.h5
+WT_Male_2,/bigdata/cosslab/rrugg002/WT_Male/outs/per_sample_outs/WT_Male_2/count/sample_molecule_info.h5
+WT_Male_3,/bigdata/cosslab/rrugg002/WT_Male/outs/per_sample_outs/WT_Male_3/count/sample_molecule_info.h5
+KO_Male_1,/bigdata/cosslab/rrugg002/KO_Male/outs/per_sample_outs/KO_Male_1/count/sample_molecule_info.h5
+KO_Male_2,/bigdata/cosslab/rrugg002/KO_Male/outs/per_sample_outs/KO_Male_2/count/sample_molecule_info.h5
+KO_Male_3,/bigdata/cosslab/rrugg002/KO_Male/outs/per_sample_outs/KO_Male_3/count/sample_molecule_info.h5

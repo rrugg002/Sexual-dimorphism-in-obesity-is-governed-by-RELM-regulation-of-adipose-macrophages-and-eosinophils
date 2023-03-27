@@ -1,0 +1,13 @@
+﻿[gene-expression],,,
+reference,/rhome/rrugg002/bigdata/refdata-gex-mm10-2020-A,,
+,,,
+[libraries],,,
+fastq_id,fastqs,lanes,feature_types
+JL02,/rhome/rrugg002/bigdata/Relma_HFD/Relma_HFD_fastqs/JL02_GEX,any,Gene Expression
+JL06,/rhome/rrugg002/bigdata/Relma_HFD/Relma_HFD_fastqs/JL06_CellPlex,any,Multiplexing Capture
+,,,
+[samples],,,
+sample_id,cmo_ids,,
+KO_Female_1,CMO305,,
+KO_Female_2,CMO307,,
+KO_Female_3,CMO308,,
